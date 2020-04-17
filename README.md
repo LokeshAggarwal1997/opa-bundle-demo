@@ -1,5 +1,5 @@
 # opa-bundle-demo
-OPA (OPA-Istio) that allows you to enforce OPA policies at the Istio Proxy layer.
+OPA (OPA-Istio) that allows you to enforce OPA policies at the Istio Proxy layer. This is a example of how to inject policy from external sources like s3 so that we will able to change policy at dynamic time.
 
 Table of contents
 #####Getting_started
